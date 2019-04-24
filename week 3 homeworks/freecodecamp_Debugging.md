@@ -1,3 +1,4 @@
+
 # Introduction to the Debugging Challenges
 
 Use the JavaScript Console to Check the Value of a Variable
