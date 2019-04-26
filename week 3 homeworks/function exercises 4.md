@@ -1,6 +1,5 @@
+
 # Reference Type Arguments
-
-
 
 When reference types (ie. arrays, objects) are passed as arguments to a function JavaScript simply passes a pointer to the thing in memory.  If you modify a data structure that was passed as an argument, the changes will remain in the global scope after the frame has closed.  This is a _side effect_.
 
