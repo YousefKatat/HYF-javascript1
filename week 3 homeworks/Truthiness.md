@@ -1,3 +1,4 @@
+
 # Truthiness
 
 Truthiness is very simple to understand.  Does a value convert to _true_ or _false_ when cast to boolean?
