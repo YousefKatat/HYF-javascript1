@@ -1,3 +1,4 @@
+
 # Implicit Coercion
 
 Operators in JavaScript are designed to never throw errors.  This means that if you try to operate on values of different types, JS needs to do some work behind the scenes to avoid causing any errors.  That work is called __implicit coercion__.  JavaScript perform type conversions on the values before trying to compare, add, divide, whatever. 
